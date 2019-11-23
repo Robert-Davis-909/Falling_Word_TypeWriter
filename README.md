@@ -12,3 +12,5 @@ Assignment 7
 9. Read words from a file which are not hard coded.
 10. Did not do video with sound.
 
+Instructions of the Game.
+This game uses the keyboard to play the game.
